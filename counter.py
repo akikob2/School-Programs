@@ -1,9 +1,8 @@
-#   Write a program that:
-# - reads a list of integers and counts how many 1s, 2s, 3s, ... 100s
-#   are entered
+#   A program that:
+# - reads a list of integers and counts how many 1s, 2s, 3s, ... 100s are entered
 # - print out "The number of 1s:" followed by a count
 # - "The number of 2s:" followed by a count, up to the 100s
-# - one line each but do NOT print anything that has a count of 0s
+# - one line each but does not print anything that has a count of 0s
 
 def main():
 
