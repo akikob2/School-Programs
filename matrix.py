@@ -1,7 +1,7 @@
 # create the two dimensional matrix m
 # 4 rows, 5 columns, 1 through 20
 
-def sumRows(matrix):
+def sumRows(matrix): #Sums up the rows
 
     numRows = len(matrix)
     numCols = len(matrix[0])
@@ -15,7 +15,7 @@ def sumRows(matrix):
     return sums
 
 
-def sumCols(matrix):
+def sumCols(matrix): #Sums up the columns
 
     numRows = len(matrix)
     numCols = len(matrix[0])
@@ -29,7 +29,7 @@ def sumCols(matrix):
     return sums
 
 
-def prettyPrint(matrix):
+def prettyPrint(matrix): #Makes the matrix pretty
 
     numRows = len(matrix)
     numCols = len(matrix[0])
