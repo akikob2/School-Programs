@@ -1,12 +1,4 @@
-#  File: Deal.py
 #  Description: proving the Monty Hall problem
-#  Student's Name: Akiko Barreras
-#  Student's UT EID: ab63527
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
-#  Date Created: 3/23/2020
-#  Date Last Modified: 3/24/2020
 
 import random
 
