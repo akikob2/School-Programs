@@ -1,3 +1,5 @@
+#A function that returns whether a string is a palindrom or not
+
 def isPal(s):
 
     #s is the string to evaluate, will be passed to us as a parameter
