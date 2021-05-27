@@ -1,12 +1,4 @@
-#  File: MagicSquares.py
 #  Description: Making a magic square given the length of a side
-#  Student's Name: Akiko Barreras
-#  Student's UT EID: ab63527
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
-#  Date Created: 4/21/2020
-#  Date Last Modified: 4/22/2020
 
 class MagicSquare():
 
