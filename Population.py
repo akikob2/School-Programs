@@ -1,12 +1,4 @@
-#  File: Population.py
 #  Description: Using dictionaries to tally up the 1st digit of populations
-#  Student's Name: Akiko Barreras
-#  Student's UT EID: ab63527
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
-#  Date Created: 4/30/2020
-#  Date Last Modified: 4/30/2020
 
 def main():
 
