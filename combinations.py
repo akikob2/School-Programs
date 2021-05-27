@@ -1,12 +1,4 @@
-#  File: Combinations.py
 #  Description: Getting the number of combinations for 0 to 52 cards
-#  Student's Name: Akiko Barreras
-#  Student's UT EID: ab63527
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
-#  Date Created: 3/7/2020
-#  Date Last Modified: 3/7/2020
 
 def main():
 
