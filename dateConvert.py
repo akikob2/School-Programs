@@ -1,8 +1,8 @@
-# Write a function called dateConvert() that takes as an argument a
+# A function called dateConvert() that takes as an argument a
 # string representing a date in the form "MM/DD/YYY" and returns a
-# string representing the long form of the date, such as 'April 16, 2020
+# string representing the long form of the date, such as 'April 16, 2020'
 
-def dateConvert(dateString): #input is 04/16/2020
+def dateConvert(dateString): #Example of input is 04/16/2020
 
     monthWords = ["January","February","March","April","May","June",
                   "July","August","September","October","November",
