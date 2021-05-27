@@ -1,5 +1,4 @@
 # create the two dimensional matrix m
-#
 # 4 rows, 5 columns, 1 through 20
 
 def sumRows(matrix):
