@@ -1,13 +1,4 @@
-#  File: LinearEquations.py
 #  Description: program that runs operations on linear equations
-#  Student's Name: Akiko Barreras
-#  Student's UT EID: ab63527
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
-#  Date Created: 4/5/2020
-#  Date Last Modified: 4/5/2020
-
 
 class LinearEquation():
 
