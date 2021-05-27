@@ -1,16 +1,8 @@
-#  File: Grades.py
 #  Description: Pretending to be a teacher and making a grade book
-#  Student's Name: Akiko Barreras
-#  Student's UT EID: ab63527
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
-#  Date Created: 4/25/2020
-#  Date Last Modified: 4/25/2020
 
 def main():
 
-    gradeFile = open("gradeInput.txt","r")
+    gradeFile = open("gradeInput.txt","r") #This was a textfile given to us
     outFile = open("gradeOutput.txt","w")
 
     #Writing the heading
